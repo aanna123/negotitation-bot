@@ -1,6 +1,6 @@
 Clone the repository:
 
-git clone https://github.com/your-username/negotiation-chatbot-api.git
+git clone https://github.com/aanna123/negotitation-bot.git
 cd negotiation-chatbot-api
 
 Additional Notes:
